@@ -1,0 +1,17 @@
+﻿// Random gen = new(57);
+
+// Console.WriteLine(gen.Next());
+
+// int i = Random.Shared.Next(10);
+
+// Console.WriteLine(i);
+
+int i = 32;
+while (i > 0 && i < 40)
+{
+    Console.WriteLine(i);
+    i -= 1;
+}
+
+
+Console.ReadLine();
