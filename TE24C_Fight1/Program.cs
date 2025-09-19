@@ -1,5 +1,6 @@
 int prohp = 100;
 int anthp = 100;
+int NO = 1;
 string proname;
 string antname;
 
@@ -12,5 +13,18 @@ Console.WriteLine("Vad ska din antagonist heta?");
 antname = Console.ReadLine().ToLower();
 
 Console.WriteLine($"{proname} & {antname} ska slåss");
+while (prohp > 0 && anthp > 0)
+
+{
+    Console.WriteLine($"Runda {NO}");
+    NO ++;
+    Console.WriteLine($"{proname}: {prohp}HP & {antname}: {anthp}HP");
+    
+    Console.ReadLine();
+}
+if (prohp < 0 && anthp < 0)
+    {
+        Console.WriteLine("oavgjort.");
+    }
 
 Console.ReadLine();
