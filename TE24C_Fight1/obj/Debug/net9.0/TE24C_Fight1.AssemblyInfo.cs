@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TE24C_Fight1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a5d42377e406efb32f1c8fcee9fc3b9617688e9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e50f77ed4ce218560e8d000c2b7c301400cf4d18")]
 [assembly: System.Reflection.AssemblyProductAttribute("TE24C_Fight1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TE24C_Fight1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
